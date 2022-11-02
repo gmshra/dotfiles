@@ -1,7 +1,7 @@
 # Dotfiles
 Dotfiles for wm and application I use
 
-# Tokyonight rice
+# Tokyonight rice  WIP
 
 ### Awesome WM
 ![rice](./assets/awesome3.png)
