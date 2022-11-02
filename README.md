@@ -22,7 +22,7 @@ Dotfiles for wm and application I use
    
     sudo pacman -S rofi brightnessctl playerctl alsa-utils papirus-icon-theme t network-manager-applet 
 
-    yay -S picom-jonaburg-git  cava 
+    yay -S picom-ibhagwan-git  cava 
    ```
 
 3. Themes
