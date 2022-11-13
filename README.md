@@ -28,7 +28,8 @@ Dotfiles for wm and application I use
 3. Themes
 
     - [Papirus - Icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-     Tokyo-night theme for alacritty
+
+    Tokyo-night theme for alacritty
     ```shell
 
            # TokyoNight night Alacritty Colors
